@@ -1,0 +1,21 @@
+${AnsiColor.YELLOW}                            _ooOoo_
+${AnsiColor.YELLOW}                           o8888888o
+${AnsiColor.YELLOW}                           88" . "88
+${AnsiColor.YELLOW}                           (| -_- |)
+${AnsiColor.YELLOW}                           O\  =  /O
+${AnsiColor.YELLOW}                        ____/`---'\____
+${AnsiColor.YELLOW}                      .'  \\|     |//  `.
+${AnsiColor.YELLOW}                     /  \\|||  :  |||//  \
+${AnsiColor.YELLOW}                    /  _||||| -:- |||||-  \
+${AnsiColor.YELLOW}                    |   | \\\  -  /// |   |
+${AnsiColor.YELLOW}                    | \_|  ''\---/''  |   |
+${AnsiColor.YELLOW}                    \  .-\__  `-`  ___/-. /
+${AnsiColor.YELLOW}                  ___`. .'  /--.--\  `. . __
+${AnsiColor.YELLOW}               ."" '<  `.___\_<|>_/___.'  >'"".
+${AnsiColor.YELLOW}              | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+${AnsiColor.YELLOW}              \  \ `-.   \_ __\ /__ _/   .-` /  /
+${AnsiColor.YELLOW}         ======`-.____`-.___\_____/___.-`____.-'======
+${AnsiColor.YELLOW}                            `=---='
+${AnsiColor.YELLOW}         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+${AnsiColor.YELLOW}                 佛祖保佑             永无BUG
+${AnsiColor.YELLOW}                            @SQJ
