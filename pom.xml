@@ -49,7 +49,7 @@
     <java.version>1.8</java.version>
     <com.alibaba.druid>1.1.8</com.alibaba.druid>
     <junit>3.8.1</junit>
-    <mysql.connector.java>5.1.38</mysql.connector.java>
+    <mysql.connector.java>8.0.16</mysql.connector.java>
     <org.projectlombok.lomok>1.16.10</org.projectlombok.lomok>
     <org.seleniumhq.selenium>2.53.0</org.seleniumhq.selenium>
     <com.alibaba.fastjson>1.2.46</com.alibaba.fastjson>
