@@ -48,7 +48,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
     <com.alibaba.druid>1.1.8</com.alibaba.druid>
-    <junit>3.8.1</junit>
+    <junit>4.13.1</junit>
     <mysql.connector.java>5.1.38</mysql.connector.java>
     <org.projectlombok.lomok>1.16.10</org.projectlombok.lomok>
     <org.seleniumhq.selenium>2.53.0</org.seleniumhq.selenium>
