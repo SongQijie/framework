@@ -60,7 +60,7 @@
     <com.google.zxing.javase>3.2.1</com.google.zxing.javase>
     <com.aliyun.oss>2.5.0</com.aliyun.oss>
     <com.google.guava>25.0-jre</com.google.guava>
-    <org.apache.poi>3.12</org.apache.poi>
+    <org.apache.poi>4.1.2</org.apache.poi>
     <org.jsoup>1.9.2</org.jsoup>
     <com.google.zxing>2.1</com.google.zxing>
     <javax.mail>1.4.7</javax.mail>
